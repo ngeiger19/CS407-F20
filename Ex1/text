@@ -1,0 +1,166 @@
+********* P3 *********
+_GENUS                      : 2\n
+__CLASS                      : Win32_VideoController\n
+__SUPERCLASS                 : CIM_PCVideoController\n
+__DYNASTY                    : CIM_ManagedSystemElement\n
+__RELPATH                    : Win32_VideoController.DeviceID="VideoController1"\n
+__PROPERTY_COUNT             : 59\n
+__DERIVATION                 : {CIM_PCVideoController, CIM_VideoController, CIM_Controller, CIM_LogicalDevice...}\n
+__SERVER                     : DESKTOP-EKIJVR7\n
+__NAMESPACE                  : root\cimv2\n
+__PATH                       : \\DESKTOP-EKIJVR7\root\cimv2:Win32_VideoController.DeviceID="VideoController1"\n
+AcceleratorCapabilities      :\n
+AdapterCompatibility         : NVIDIA\n
+AdapterDACType               : Integrated RAMDAC\n
+AdapterRAM                   : 4293918720\n
+Availability                 : 3\n
+CapabilityDescriptions       :\n
+Caption                      : NVIDIA GeForce GTX 1060 6GB\n
+ColorTableEntries            :\n
+ConfigManagerErrorCode       : 0\n
+ConfigManagerUserConfig      : False\n
+CreationClassName            : Win32_VideoController\n
+CurrentBitsPerPixel          : 32\n
+CurrentHorizontalResolution  : 3840\n
+CurrentNumberOfColors        : 4294967296\n
+CurrentNumberOfColumns       : 0\n
+CurrentNumberOfRows          : 0\n
+CurrentRefreshRate           : 59\n
+CurrentScanMode              : 4\n
+CurrentVerticalResolution    : 2160\n
+Description                  : NVIDIA GeForce GTX 1060 6GB\n
+DeviceID                     : VideoController1\n
+DeviceSpecificPens           :\n
+DitherType                   : 0\n
+DriverDate                   : 20200304000000.000000-000\n
+DriverVersion                : 26.21.14.4259\n
+ErrorCleared                 :\n
+ErrorDescription             :\n
+ICMIntent                    :\n
+ICMMethod                    :\n
+InfFilename                  : oem18.inf\n
+InfSection                   : Section094\n
+InstallDate                  :\n
+InstalledDisplayDrivers      : C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5ef913e2bcf39373\nvldu
+                                mdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5ef913e2bcf393
+                                73\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5ef913
+                                e2bcf39373\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd6
+                                4_5ef913e2bcf39373\nvldumdx.dll\n
+LastErrorCode                :\n
+MaxMemorySupported           :\n
+MaxNumberControlled          :\n
+MaxRefreshRate               : 75\n
+MinRefreshRate               : 23\n
+Monochrome                   : False\n
+Name                         : NVIDIA GeForce GTX 1060 6GB\n
+NumberOfColorPlanes          :\n
+NumberOfVideoPages           :\n
+PNPDeviceID                  : PCI\VEN_10DE&DEV_1C03&SUBSYS_85B61043&REV_A1\9&35D4F288&0&0008\n
+PowerManagementCapabilities  :\n
+PowerManagementSupported     :\n
+ProtocolSupported            :\n
+ReservedSystemPaletteEntries :\n
+SpecificationVersion         :\n
+Status                       : OK\n
+StatusInfo                   :\n
+SystemCreationClassName      : Win32_ComputerSystem\n
+SystemName                   : DESKTOP-EKIJVR7\n
+SystemPaletteEntries         :\n
+TimeOfLastReset              :\n
+VideoArchitecture            : 5\n
+VideoMemoryType              : 2\n
+VideoMode                    :\n
+VideoModeDescription         : 3840 x 2160 x 4294967296 colors\n
+VideoProcessor               : GeForce GTX 1060 6GB\n
+PSComputerName               : DESKTOP-EKIJVR7\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+__GENUS                      : 2\n
+__CLASS                      : Win32_VideoController\n
+__SUPERCLASS                 : CIM_PCVideoController\n
+__DYNASTY                    : CIM_ManagedSystemElement\n
+__RELPATH                    : Win32_VideoController.DeviceID="VideoController1"\n
+__PROPERTY_COUNT             : 59\n
+__DERIVATION                 : {CIM_PCVideoController, CIM_VideoController, CIM_Controller, CIM_LogicalDevice...}\n
+__SERVER                     : LAPTOP-07THPPKN\n
+__NAMESPACE                  : root\cimv2\n
+__PATH                       : \\LAPTOP-07THPPKN\root\cimv2:Win32_VideoController.DeviceID="VideoController1"\n
+AcceleratorCapabilities      :\n
+AdapterCompatibility         : Intel Corporation\n
+AdapterDACType               : Internal\n
+AdapterRAM                   : 1073741824\n
+Availability                 : 3\n
+CapabilityDescriptions       :\n
+Caption                      : Intel(R) Iris(R) Plus Graphics\n
+ColorTableEntries            :\n
+ConfigManagerErrorCode       : 0\n
+ConfigManagerUserConfig      : False\n
+CreationClassName            : Win32_VideoController\n
+CurrentBitsPerPixel          : 32\n
+CurrentHorizontalResolution  : 1920\n
+CurrentNumberOfColors        : 4294967296\n
+CurrentNumberOfColumns       : 0\n
+CurrentNumberOfRows          : 0\n
+CurrentRefreshRate           : 59\n
+CurrentScanMode              : 4\n
+CurrentVerticalResolution    : 1080\n
+Description                  : Intel(R) Iris(R) Plus Graphics\n
+DeviceID                     : VideoController1\n
+DeviceSpecificPens           :\n
+DitherType                   : 0\n
+DriverDate                   : 20200309000000.000000-000\n
+DriverVersion                : 26.20.100.7985\n
+ErrorCleared                 :\n
+ErrorDescription             :\n
+ICMIntent                    :\n
+ICMMethod                    :\n
+InfFilename                  : oem49.inf\n
+InfSection                   : iICLD_w10_DS_N\n
+InstallDate                  :\n
+InstalledDisplayDrivers      : C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4323c75792f4b1d5\igdum
+                               dim64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4323c75792f4
+                               b1d5\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4
+                               323c75792f4b1d5\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.
+                               inf_amd64_4323c75792f4b1d5\igd12umd64.dll\n
+LastErrorCode                :\n
+MaxMemorySupported           :\n
+MaxNumberControlled          :\n
+MaxRefreshRate               : 59\n
+MinRefreshRate               : 59\n
+Monochrome                   : False\n
+Name                         : Intel(R) Iris(R) Plus Graphics\n
+NumberOfColorPlanes          :\n
+NumberOfVideoPages           :\n
+PNPDeviceID                  : PCI\VEN_8086&DEV_8A52&SUBSYS_3F1A17AA&REV_07\3&11583659&1&10\n
+PowerManagementCapabilities  :\n
+PowerManagementSupported     :\n
+ProtocolSupported            :\n
+ReservedSystemPaletteEntries :\n
+SpecificationVersion         :\n
+Status                       : OK\n
+StatusInfo                   :\n
+SystemCreationClassName      : Win32_ComputerSystem\n
+SystemName                   : LAPTOP-07THPPKN\n
+SystemPaletteEntries         :\n
+TimeOfLastReset              :\n
+VideoArchitecture            : 5\n
+VideoMemoryType              : 2\n
+VideoMode                    :\n
+VideoModeDescription         : 1920 x 1080 x 4294967296 colors\n
+VideoProcessor               : Intel(R) Iris(R) Graphics Family\n
+PSComputerName               : LAPTOP-07THPPKN\n
+
+********* P4 **********
+U.S. Bank Alerts:\n452854 is your code.  Do not share this code with someone contacting you.
+\nIf you didn't make this request, please call 800.USBANKS (872.2657).\n@usbank.com #452854
